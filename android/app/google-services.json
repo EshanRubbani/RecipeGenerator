@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233024386245",
+    "project_id": "recipe-generator-d2b1d",
+    "storage_bucket": "recipe-generator-d2b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233024386245:android:94a99daa757a2c852cacac",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75B_BAri3cmarbMZItZR0hOaM9_kwxlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
