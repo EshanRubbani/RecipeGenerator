@@ -85,6 +85,8 @@ class _ImageGenerationPageState extends State<ImageGenerationPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
+        automaticallyImplyLeading: false,
         title: Text('Image Upload and Analysis'),
       ),
       body: Center(
