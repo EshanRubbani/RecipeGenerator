@@ -25,6 +25,16 @@ class _HomePageState extends State<HomePage> {
     'Mexico',
     'India',
     'China'
+    'Pakistan',
+    'Brazil',
+    'Russia',
+    'Germany',
+    'France',
+    'Italy',
+    'Spain',
+    'Australia',
+    'Japan',
+    'South Korea'
   ];
   final List<Widget> _pages = [
     HomeContent(),
